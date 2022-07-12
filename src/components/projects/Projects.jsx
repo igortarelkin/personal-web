@@ -73,6 +73,10 @@ export default function Projects() {
             </div>
           </div>
         </div>
+        <div class="col-12">       
+          <p class="text-center">My GIT reprository :
+          <a href="https://github.com/igortarelkin" target="_blank">   is here</a></p>
+        </div>
       </div>
     </section>
   );
