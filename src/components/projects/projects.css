@@ -1,0 +1,33 @@
+.scale {
+    transition: 1s; /* Время эффекта */
+   }
+   .scale:hover {
+    transform: scale(1.1); /* Увеличиваем масштаб */
+    opacity: 0.9;
+   }
+
+   
+   .projects-title {
+    padding-top: 1em; 
+    padding-bottom: 3em;
+    color: #555;
+    font-family: 'Aleo', serif; 
+
+}
+
+.shadow-sm {
+    box-shadow:none !important;
+}
+.card {
+    /* border: solid, rgb(1, 42, 23);  */
+    /* border-radius: .25rem; */
+    
+}
+.py-5 {
+    padding-top: 0 !important;}
+
+.card{
+    padding:4em; 
+    border: none;  
+}
+

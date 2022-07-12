@@ -1,0 +1,33 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+
+
+.contact-form{
+    margin-top: 2em;
+}
+
+.home-section {
+    background-color: #eaf2fa;
+    padding: 110px 0;
+    animation: intro .3s both;
+    animation-delay: .15s;
+}
+
+.form-inline{
+    padding-bottom: 1em;
+}
+
+.btn{
+    margin-top: 1em; 
+}
+
+.contact-title {
+
+    color: #555;
+    font-family: 'Aleo', serif; 
+}
